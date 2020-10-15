@@ -1,0 +1,99 @@
+
+.img1{
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  padding: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  border-style:solid;
+  border-color:white;
+}
+
+.img2 {
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  padding: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  border-style:dotted;
+  border-color:white;
+}
+
+.img3 {
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  padding: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  border-style:solid;
+  border-color:white;
+}
+
+.img4 {
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  padding: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  border-style:dotted;
+  border-color:white;
+}
+
+.img5 {
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  padding: 5px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  border-style:solid;
+  border-color:white;
+}
+
+
+p{
+  margin-right:200px;
+  margin-left:200px;
+  font-size: 20px;
+  color:white ;
+  background-color: rgba(100,100,100,0.7);
+  padding:5px 5px 5px 5px;
+  text-align: center;
+  border: 5px dotted navy;
+  border-radius: 10px;
+}
+
+h1{
+  font-size: 40px;
+  text-shadow: 2px 2px grey;
+  color: magenta;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-size: 26px;
+  color: purple;
+  text-shadow: 2px 2px white;
+}
+
+.one{
+  background: purple;
+  padding: 25vh;
+}
+
+.two{
+  background: lightBlue;
+  padding: 30vh;
+  text-align:center;
+}
+
+.three{
+  background:#fdfd97;
+  padding:30vh;
+  text-align: center;
+}
+
+.four{
+  background: lightGreen;
+  padding: 30vh;
+}

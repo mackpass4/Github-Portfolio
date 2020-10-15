@@ -1,0 +1,48 @@
+p {
+  margin-right: 30%;
+  margin-left: 30%;
+  padding: 20px;
+  background-color: #508991;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+h1{
+text-align: center;
+font-size: 50px;
+text-shadow: 2px 2px #74b3ce;
+color: #172a3a;
+background-color: #09bc8a;
+font-family: "Lucida Console", Courier, monospace;
+}
+
+body{
+/*background-color: #508991; */
+ background-image: url("https://i.gifer.com/JGwK.gif");
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: auto;
+  width: 50%;
+  display: block;
+  padding: 10px;
+}
+
+li {
+  float: left;
+}
+
+a:link, a:visited {
+  background-color: #172a3a;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #74b3ce;
+}

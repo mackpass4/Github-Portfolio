@@ -1,0 +1,24 @@
+h1{
+text-align:center;
+color: #9bbdf9;
+font-size: 50px;
+font-family: "Lucida Console", Courier, monospace;
+background-color: #c4e0f9;
+text-shadow: 2px 2px #67aaf9;
+margin-left: 50px;
+margin-right:50px;
+border-style:double;
+border-color: #67aaf9;
+}
+
+body{
+background-color: #b95f89 ;
+}
+
+iframe{
+border: none;
+padding-top: 20px;
+padding-bottom: 40px;
+padding-right: 150px;
+padding-left: 150px;
+}
